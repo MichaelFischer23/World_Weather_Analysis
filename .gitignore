@@ -1,0 +1,16 @@
+# ADding Config.py
+config.py
+
+#adding additional files
+Vacation_itinerary.ipynb
+vacation_search.ipynb
+weather_data
+Weather_Database
+rabdom numbera
+WeatherPy
+VacationPy.ipymb
+
+#BYte-complied
+__pycache__/
+*.py[cod]
+*$py.class
